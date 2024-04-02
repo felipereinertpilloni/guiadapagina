@@ -1,0 +1,177 @@
+
+
+.setaEsquerda{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(0, 0, 0);
+    background-color: #dddcdc;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.setaEsquerda:hover{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(189, 119, 119);
+    background-color: #c07a7a;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.numero1{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(0, 0, 0);
+    background-color: #dddcdc;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.numero1:hover{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(189, 119, 119);
+    background-color: #c07a7a;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.numero2{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(0, 0, 0);
+    background-color: #dddcdc;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.numero2:hover{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(189, 119, 119);
+    background-color: #c07a7a;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.numero3{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(0, 0, 0);
+    background-color: #dddcdc;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.numero3:hover{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(189, 119, 119);
+    background-color: #c07a7a;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.numero4{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(0, 0, 0);
+    background-color: #dddcdc;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.numero4:hover{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(189, 119, 119);
+    background-color: #c07a7a;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.numero5{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(0, 0, 0);
+    background-color: #dddcdc;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.numero5:hover{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(189, 119, 119);
+    background-color: #c07a7a;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.numero6{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(0, 0, 0);
+    background-color: #dddcdc;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.numero6:hover{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(189, 119, 119);
+    background-color: #c07a7a;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.setaDireita{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(0, 0, 0);
+    background-color: #dddcdc;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
+
+.setaDireita:hover{
+    display: inline-block;
+    padding: 3px 6px;
+    border: 1px;
+    border-color: rgb(189, 119, 119);
+    background-color: #c07a7a;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 16px;
+}
